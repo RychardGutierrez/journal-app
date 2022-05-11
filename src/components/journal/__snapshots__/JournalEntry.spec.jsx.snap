@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<JournalEntry /> should render component 1`] = `
+<div
+  className="journal__entry  animate__animated animate__fadeIn animate_faster"
+  onClick={[Function]}
+>
+  <div
+    className="journal__entry-body"
+  >
+    <p
+      className="journal__entry-title"
+    >
+      title test
+    </p>
+    <p
+      className="journal__entry-content"
+    >
+      body test
+    </p>
+  </div>
+  <div
+    className="journal__entry-date-box"
+  >
+    <span>
+      Tue
+    </span>
+    <h4>
+      10
+    </h4>
+  </div>
+</div>
+`;
